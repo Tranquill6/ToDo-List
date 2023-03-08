@@ -1,0 +1,31 @@
+.ToDo-container {
+    padding: 20px 20px;
+    margin: 10vh 35vw 0vw 35vw;
+    border: 1px rgb(139, 139, 139) solid;
+    background-color: white;;
+}
+
+.ToDo-header {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(139, 139, 139);
+}
+
+#todo-input {
+    width: 75%;
+    margin-left: 10%;
+    margin-top: 10px;
+    flex-grow: inherit;
+}
+
+#todo-input:focus {
+    box-shadow:none;
+}
+
+#todo-add-btn:disabled {
+    cursor:not-allowed;
+}
+
+.todo-btn {
+    margin-top: 10px;
+}

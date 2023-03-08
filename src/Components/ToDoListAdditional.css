@@ -1,0 +1,15 @@
+.ToDo-container2 {
+    padding: 20px 20px;
+    margin: 0vh 35vw;
+    background-color: #072233;
+    display: inline-flex;
+    width: 30vw;
+}
+
+#todo-filter-1 {
+    margin-left: 20px;
+}
+
+.todo-completed-toggle, .todo-list-toggle {
+    width:50%;
+}

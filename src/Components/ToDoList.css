@@ -1,0 +1,11 @@
+.todo-list-item-text { 
+    margin-left: 10px;
+}
+
+.icon-float-right {
+    float:right;
+}
+
+.icon-float-right:hover {
+    cursor:pointer;
+}
